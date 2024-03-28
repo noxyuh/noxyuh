@@ -1,7 +1,7 @@
-## Olá! Eu sou o Noxyuh, mais me chamo Rafael.
+## Olá! Eu sou o Rafael
 
-- 🔭 Querendo trabalhar para front-end
-- 🌱 Estudando JavaScript
+- 🔭 Cursando Ciência de Dados
+- 🌱 Programador Python
   <div align="center">
   <a href="https://github.com/noxyuh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noxyuh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
