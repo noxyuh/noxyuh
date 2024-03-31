@@ -9,7 +9,7 @@
   
    Hi 👋, I'm Rafael! Data Science student from Brazil.
 
-  - 🌱 I am currently studying Data Science at the State University of Paraiba <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I am currently studying Data Science at the State University of Paraiba 
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
