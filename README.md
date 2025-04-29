@@ -18,7 +18,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 20 years old and currently live in Brazil. I have basic English and experience with SQL, Python, Data Analysis, Data Visualization and Machine Learning.
+  - 💬 I am 21 years old and currently live in Brazil. I have basic English and experience with SQL, Python, Data Analysis, Data Visualization and Machine Learning.
 
 
   - ⚡ I like reading, whether it's a good book, manga or comics, as well as watching movies and playing games! I believe that our preferences and hobbies shape our worldview and allow us to approach challenges more creatively and effectively.
