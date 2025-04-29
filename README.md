@@ -20,15 +20,9 @@
 
   - 💬 I am 20 years old and currently live in Brazil. I have basic English and experience with SQL, Python, Data Analysis, Data Visualization and Machine Learning.
 
+
   - ⚡ I like reading, whether it's a good book, manga or comics, as well as watching movies and playing games! I believe that our preferences and hobbies shape our worldview and allow us to approach challenges more creatively and effectively.
 </details>
-
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noyxuh/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffa-silva/)
-
-
-
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -38,6 +32,10 @@
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+
+<!-- Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noyxuh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffa-silva/)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
